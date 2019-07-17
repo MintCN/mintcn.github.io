@@ -4,7 +4,7 @@
 
 - [youdao-python](https://github.com/MintCN/youdao-python)
 - [linux-insides-zh](https://github.com/MintCN/linux-insides-zh)
-- [Basics](https://github.com/MintCN/Basics)
+- [~~Basics~~](https://github.com/MintCN/Basics)
 - [openyoudao](https://github.com/MintCN/openyoudao)
 
 ### Python packages
