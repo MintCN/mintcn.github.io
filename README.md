@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## MintCN
 
-You can use the [editor on GitHub](https://github.com/MintCN/mintcn.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [youdao-python](https://github.com/MintCN/youdao-python)
+- [linux-insides-zh](https://github.com/MintCN/linux-insides-zh)
+- [Basics](https://github.com/MintCN/Basics)
+- [openyoudao](https://github.com/MintCN/openyoudao)
 
-### Markdown
+### Python packages
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [youdao-simple 1.0.4](https://pypi.python.org/pypi/youdao-simple/)
 
-```markdown
-Syntax highlighted code block
+### Contributors
 
-# Header 1
-## Header 2
-### Header 3
+The following is contributor list:
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MintCN/mintcn.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [mudongliang](https://github.com/orgs/MintCN/people/mudongliang)
+- [xinqiu](https://github.com/orgs/MintCN/people/xinqiu)
+- [Lalic](https://github.com/orgs/MintCN/people/Lalic)
